@@ -62,3 +62,11 @@
 <h6 align="center">" Eu vivo pra ser feliz, eu não vivo pra ser normal " <br>                                   - Chorão</h6>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luigins/Luigins/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luigins/Luigins/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luigins/Luigins/output/pacman-contribution-graph.svg">
+</picture>
+
+###
