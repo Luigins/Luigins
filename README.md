@@ -1,10 +1,10 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif"  />
 </div>
 
 ###
 
-<div align="center">
+<div data-importer="socials" align="center">
   <a href="https://www.instagram.com/luigimarusso__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=purple&logoColor=white&labelColor=purple&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
@@ -16,29 +16,29 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Luigins.Luigins&left_color=purple&right_color=purple&left_text=Visitantes"  />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Luigins.Luigins&left_color=purple&right_color=purple&left_text=Visitantes"  />
 </div>
 
 ###
 
-<h3 align="center">Olá!, Meu nome é Luigi Marusso👋</h3>
+<h3 data-importer="text" align="center">Olá!, Meu nome é Luigi Marusso👋</h3>
 
 ###
 
-<h3 align="center">Sobre mim !!</h3>
+<h3 data-importer="text" align="center">Sobre mim !!</h3>
 
 ###
 
-<p align="left">- 👨🏻Tenho 16 anos<br>- 📖 Aluno do SESI e SENAI<br>- 🖥️ Atualmente estudando DEV (Desevolvimento de Sistemas) , Iot (Internet of things) e SOP (Sistemas Operacionais)📖</p>
+<p data-importer="text" align="left">- 👨🏻Tenho 16 anos<br><br>- 📖 Aluno do SESI e SENAI<br><br>- 🖥️ Atualmente estudando DEV (Desevolvimento de Sistemas) , Iot (Internet of things), SOP (Sistemas Operacionais), BCD (Banco de Dados), Programação Back-End e Front-End, Linguagem de Marcação (HTML) e Projetos de Software. 📖</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens Trabalhadas</h3>
+<h3 data-importer="text" align="left">🛠 Linguagens Trabalhadas</h3>
 
 ###
 
-<div align="center">
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="17" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
@@ -58,18 +58,18 @@
 
 ###
 
-<div>
+<div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=PURPLE&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/05/78/76/057876466b4d46d5c7079ced94c037a4.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/05/78/76/057876466b4d46d5c7079ced94c037a4.gif"  />
 </div>
 
 ###
 
-<h6 align="center">" Eu vivo pra ser feliz, eu não vivo pra ser normal "<br>                - Chorão</h6>
+<h6 data-importer="text" align="center">" Eu vivo pra ser feliz, eu não vivo pra ser normal "<br>                - Chorão</h6>
 
 ###
