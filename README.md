@@ -22,7 +22,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Olá!, Meu nome é Luigi Marusso👋</h3>
+<h3 data-importer="text" align="center">Bem vindo a minha pagina!, Meu nome é Luigi Marusso👋</h3>
 
 ###
 
