@@ -32,7 +32,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 👨🏻Tenho 16 anos<br><br>- 📖 Aluno do SESI e SENAI<br><br>- 🖥️ Atualmente estudando DEV (Desevolvimento de Sistemas) , Iot (Internet of things), SOP (Sistemas Operacionais), BCD (Banco de Dados), Programação Back-End e Front-End, Linguagem de Marcação (HTML) e Projetos de Software. 📖</p>
+<p data-importer="text" align="left">- 👨🏻Tenho 16 anos<br><br>- 📖 Estudante SESI e SENAI<br><br>- 🖥️ Atualmente estudando Desevolvimento de Sistemas , Iot (Internet of things), SOP (Sistemas Operacionais), BCD (Banco de Dados), Programação Back-End e Front-End, Linguagem de Marcação (HTML) e Projetos de Software. 📖</p>
 
 ###
 
