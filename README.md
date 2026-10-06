@@ -58,7 +58,7 @@
 ###
 ## Linguagens Mais Usadas ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiano-dio)](https://github.com/Luigins/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigins)](https://github.com/Luigins/github-readme-stats)
 
 ###
 
