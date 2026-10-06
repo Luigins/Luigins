@@ -56,6 +56,11 @@
 </div>
 
 ###
+## Linguagens Mais Usadas ##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiano-dio)](https://github.com/Luigins/github-readme-stats)
+
+###
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=PURPLE&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
